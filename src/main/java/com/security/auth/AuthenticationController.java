@@ -1,6 +1,10 @@
 package com.security.auth;
 
+import com.security.auth.dto.AuthenticationRequest;
+import com.security.auth.dto.AuthenticationResponse;
+import com.security.auth.dto.RegiterRequest;
 import lombok.RequiredArgsConstructor;
+import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
