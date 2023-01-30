@@ -37,7 +37,7 @@ Para criar e executar o projeto, siga estas etapas:
 
 
 
-<img width:"50" height:"60" src="https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/800px-Flag_of_the_United_Kingdom.svg.png?20190917170937" alt="english version"> VERSION
+<img width="40" height="20" src="https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/800px-Flag_of_the_United_Kingdom.svg.png?20190917170937" alt="english version" /> VERSION
 
 # Spring Boot 3.0 Security with JWT Implementation
 This project demonstrates the implementation of security using Spring Boot 3.0 and JSON Web Tokens (JWT). It includes the following features:
