@@ -12,7 +12,7 @@ Este projeto demonstra a implementação de segurança usando Spring Boot 3.0 e 
 * Segurança Primavera
 * Tokens Web JSON (JWT)
 * BCrypt
-* Especialista
+* Maven
  
 ## Começando
 Para começar com este projeto, você precisará ter o seguinte instalado em sua máquina local:
